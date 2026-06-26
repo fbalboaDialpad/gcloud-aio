@@ -1,0 +1,33 @@
+datastore/tests/unit/datastore_test.py
+  s_bd20a2727f2591::t_cae3d42aee4be8 78
+  h_79f47be6612d98 1-6,8,51-73,75-77
+datastore/gcloud/aio/datastore/datastore.py
+  s_bd20a2727f2591::t_46bb614d229989 137,139,141-143
+  s_bd20a2727f2591::t_068c03ad58c855 176
+  s_bd20a2727f2591::t_70af8120b8d124 337
+  s_bd20a2727f2591::t_16c5d28a076a46 410,434
+  h_79f47be6612d98 138,140,174,177-178,204,206,208-213,237,333,338,406,411,475
+  s_bd20a2727f2591::t_601036d3a8b1e8 216
+  s_bd20a2727f2591::t_f0cf4a8c6a7490 205,207,336,409,431,433,435
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "81c1409e0db93c6a6fe705cb81ba451eeaceb245",
+  "prompts": {},
+  "humans": {
+    "h_79f47be6612d98": {
+      "author": "fbalboaDialpad <fernando.balboa@dialpad.com>"
+    }
+  },
+  "sessions": {
+    "s_bd20a2727f2591": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "15f3e1e2-b18a-4c92-93ac-3d64f6b63e53",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "fbalboaDialpad <fernando.balboa@dialpad.com>"
+    }
+  }
+}
