@@ -1,0 +1,14 @@
+datastore/gcloud/aio/datastore/datastore.py
+  h_79f47be6612d98 176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "362789dd0cd4ce20be9767ec5ebb3df2bbbdf3e3",
+  "prompts": {},
+  "humans": {
+    "h_79f47be6612d98": {
+      "author": "fbalboaDialpad <fernando.balboa@dialpad.com>"
+    }
+  }
+}
